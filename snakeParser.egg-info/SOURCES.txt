@@ -1,0 +1,7 @@
+setup.py
+snakeParser/__init__.py
+snakeParser/game.py
+snakeParser.egg-info/PKG-INFO
+snakeParser.egg-info/SOURCES.txt
+snakeParser.egg-info/dependency_links.txt
+snakeParser.egg-info/top_level.txt
